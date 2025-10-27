@@ -1,4 +1,4 @@
-# Real-Time Store Inventory Fetcher
+# Stock Watch (Real-Time Store Inventory Fetcher)
 
 This project is a well-engineered, full-stack application that allows users to select a brand and a specific store to fetch the latest product inventory in real-time. It features a modern, responsive frontend and a robust, production-grade backend.
 
@@ -41,8 +41,8 @@ This project is fully containerized, making the setup process straightforward.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd real-time-inventory
+    git clone https://github.com/FadeHack/StockWatch
+    cd StockWatch
     ```
 
 2.  **Set up Environment Variables:**
